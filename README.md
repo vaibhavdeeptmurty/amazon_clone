@@ -1,4 +1,4 @@
-#This is Amazon.com Home page clone
+# This is Amazon.com Home page clone
 <br>
 First Web dev Project 
 <br>
